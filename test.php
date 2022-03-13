@@ -1,6 +1,6 @@
   <?php 
 
-  $url = 'https://api.github.com/repos/marinedeveloper/test/commits';
+  $url = 'https://api.github.com/repos/marinedeveloper/test2/commits';
 $ch = curl_init();
 	
 		curl_setopt_array($ch, array(
